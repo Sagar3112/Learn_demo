@@ -1,3 +1,3 @@
 # Learn_demo
-This is my first Git  repository
-Authore - SAGAR_KV
+This is my first Git  repository.
+Author - SAGAR_KV
